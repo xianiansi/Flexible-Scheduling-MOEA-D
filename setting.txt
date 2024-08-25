@@ -4,5 +4,5 @@ size : 32
 root : /users/xxx
 sparse : False
 seed : 72
-epochs : 10000
+epochs : 1000
 ------------------- end -------------------
